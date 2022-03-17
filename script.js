@@ -5,8 +5,8 @@ let parts = [];
 let images = [
   "https://apikey.net/?type=Wimg",
   "https://images.unsplash.com/photo-1549880338-65ddcdfd017b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80",
-  "https://apikey.net/?type=img",
-  "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2700&q=80"
+  "https://ssl.apikey.net/Wimg/i5AdFMQGZQWGjQySQxwp7WMwD75rrPsM.jpg,
+  "https://ssl.apikey.net/Wimg/WCWxjDGHsPFf3jQnDdxpMDMebR8NmniY.jpg"
 ];
 let current = 0;
 let playing = false;
